@@ -86,13 +86,13 @@
     }, 
 
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "TERMUX.",
       "required": false,
       "value": "𝐁.𝐌.𝐁-𝐗𝐌𝐃✨"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "237672667958.",
       "required": false,
       "value": "255767862457"
  },
